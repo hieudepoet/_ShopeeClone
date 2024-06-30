@@ -29,7 +29,16 @@ public class Customer extends User{
         System.out.print("Enter username : ");username = sc.nextLine();
         System.out.print("Enter password : ");password = sc.nextLine();
 
-        for (User user : CustomerManagement.getCustomers().keySet())
+        for (User user : CustomerManagement.getCustomers().values()){
+
+            if (user.getUsername().equals(username)){
+                if(user.getPassword().equals(password)){
+                    System.out.println();
+                    
+                }
+            }
+
+        }
         
 
         sc.close();
