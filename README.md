@@ -1,5 +1,5 @@
 
-# OOP Practice : _ShoppeClone
+# OOP Practice : _ShopeeClone
 
 This project is an advanced object-oriented programming (OOP) practice focusing on building a secure and scalable e-commerce system in Java.
 
@@ -35,7 +35,7 @@ This project is an advanced object-oriented programming (OOP) practice focusing 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/_ShopeeClone.git
+   git clone https://github.com/hieudepoet/_ShopeeClone.git
    ```
 
 2. Open the project in your IDE (e.g., IntelliJ IDEA, Eclipse).
