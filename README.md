@@ -35,7 +35,7 @@ This project is an advanced object-oriented programming (OOP) practice focusing 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/advanced-e-commerce.git
+   git clone https://github.com/your-username/_ShopeeClone.git
    ```
 
 2. Open the project in your IDE (e.g., IntelliJ IDEA, Eclipse).
