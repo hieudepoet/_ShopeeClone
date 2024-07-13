@@ -1,5 +1,5 @@
 
-# OOP Practice : _ShoppeClone
+# OOP Practice : _ShopeeClone
 
 This project is an advanced object-oriented programming (OOP) practice focusing on building a secure and scalable e-commerce system in Java.
 
